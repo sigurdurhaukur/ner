@@ -1,0 +1,2 @@
+# ner
+icelandic ner tagger
